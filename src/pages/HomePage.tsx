@@ -5,17 +5,13 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card'
-import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
+
 
 export function HomePage() {
   return (
     <div className="space-y-10">
       <section className="space-y-4 text-center">
-        <div className="flex justify-center gap-2">
-          <Badge variant="secondary">Open source</Badge>
-          <Badge variant="outline">Educativo</Badge>
-        </div>
         <h1 className="text-4xl font-bold tracking-tight text-foreground md:text-5xl">
           React Libraries for Beginners
         </h1>
