@@ -22,7 +22,7 @@ export function Layout({ children }: LayoutProps) {
         <nav className="mx-auto flex h-14 max-w-6xl items-center justify-between gap-4 px-4">
           <div className="flex items-center gap-4">
             <Link to="/" className="flex shrink-0 items-center gap-2 font-semibold text-foreground">
-              <span className="text-lg">RLB</span>
+              {theme === 'dark' ? <img src='../../public/assets/img/react-icon-white.png' className='w-8'/> : <img src='../../public/assets/img/react-icon-black.webp' className='w-8'/> }
             </Link>
             <div className="flex items-center gap-1">
               <Button variant={isHome ? 'secondary' : 'ghost'} size="sm" asChild>
