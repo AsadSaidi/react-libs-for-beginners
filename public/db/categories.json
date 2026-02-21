@@ -1,0 +1,77 @@
+{
+    "categories": [
+      {
+        "id": "ui",
+        "name": "UI Components",
+        "description": "Componentes visuales y sistemas de diseño",
+        "icon": "palette"
+      },
+      {
+        "id": "forms",
+        "name": "Forms",
+        "description": "Formularios, validación y gestión de inputs",
+        "icon": "form"
+      },
+      {
+        "id": "state",
+        "name": "State Management",
+        "description": "Gestión de estado global y stores",
+        "icon": "database"
+      },
+      {
+        "id": "data-fetching",
+        "name": "Data Fetching",
+        "description": "Consumo de APIs, caching y sincronización de datos",
+        "icon": "cloud"
+      },
+      {
+        "id": "animations",
+        "name": "Animations",
+        "description": "Animaciones, transiciones y motion UI",
+        "icon": "sparkles"
+      },
+      {
+        "id": "virtualization",
+        "name": "Virtualization",
+        "description": "Renderizado eficiente de listas y grids grandes",
+        "icon": "layers"
+      },
+      {
+        "id": "accessibility",
+        "name": "Accessibility",
+        "description": "Accesibilidad web y componentes inclusivos",
+        "icon": "accessibility"
+      },
+      {
+        "id": "security",
+        "name": "Security & Auth",
+        "description": "Autenticación, autorización y seguridad",
+        "icon": "shield"
+      },
+      {
+        "id": "logic",
+        "name": "Logic & Hooks",
+        "description": "Lógica de negocio, hooks reutilizables y patrones",
+        "icon": "cpu"
+      },
+      {
+        "id": "utilities",
+        "name": "Utilities",
+        "description": "Helpers, funciones comunes y utilidades",
+        "icon": "tool"
+      },
+      {
+        "id": "formatting",
+        "name": "Formatting",
+        "description": "Fechas, números, texto y formateo",
+        "icon": "text"
+      },
+      {
+        "id": "storage",
+        "name": "Storage",
+        "description": "Persistencia de datos y almacenamiento",
+        "icon": "save"
+      }
+    ]
+  }
+  
